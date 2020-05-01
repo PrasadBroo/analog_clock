@@ -32,24 +32,24 @@ img{
 }
 
 .min{
-    height: 70px;
+    height: 80px;
     width: 5px;
     background-color:#ff4757;
     border-radius: 10px;
     position: absolute;
-    top:50px;
+    top:40px;
     left: 125px;
     transform-origin: bottom center;
 
 }
 
 .sec{
-    height: 80px;
+    height: 100px;
     width: 5px;
     background-color:slateblue;
     border-radius: 10px;
     position: absolute;
-    top: 40px;
+    top: 20px;
     left: 125px;
     transform-origin: bottom center;
     z-index: 1;
