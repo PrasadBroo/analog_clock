@@ -33,7 +33,7 @@ img{
 
 .min{
     height: 80px;
-    width: 5px;
+    width: 4px;
     background-color:#ff4757;
     border-radius: 10px;
     position: absolute;
@@ -45,7 +45,7 @@ img{
 
 .sec{
     height: 100px;
-    width: 5px;
+    width: 2px;
     background-color:slateblue;
     border-radius: 10px;
     position: absolute;
